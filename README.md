@@ -1,2 +1,2 @@
 # learn-datascience
-Coding practice and one-stop revision for data-science.
+Coding practice and one-stop revision for Data Science.
